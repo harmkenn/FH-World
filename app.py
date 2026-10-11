@@ -187,6 +187,7 @@ family_history_activities = [
     (
         "Family Tree Work",
         [
+            "Complete my 4 generations of ancestors in the Family Tree.",
             "Add ancestors, relatives, and descendants to the Family Tree.",
             "Correct names, dates, places, and relationships.",
             "Merge duplicate records.",
