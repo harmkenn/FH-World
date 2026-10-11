@@ -179,6 +179,7 @@ def create_route_pdf(route):
 
 
 app = Dash(__name__)
+server = app.server
 app.title = "Around the World Route Planner"
 
 default_city = next(city for city in CITIES if city.name == "London")
